@@ -12,3 +12,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleMusic/AppleMusic.yaml
 https://adrules.top/adrules_domainset.txt
 https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/gfw.txt
+https://gist.githubusercontent.com/hellozgl/ee5d22df896c390c29015621c93f9c0c/raw/zglauto.yaml
+https://gist.githubusercontent.com/hellozgl/88d7058805adb6706484d9b00afde8d8/raw/zglmanual.yaml
+https://gist.githubusercontent.com/hellozgl/bcfa7bac54b28de682a77ab7425add22/raw/zglreject.yaml
+https://gist.githubusercontent.com/hellozgl/dc0b2cc0bd09d5d838a7a0d75da38a09/raw/zgldirect.yaml
+https://gist.githubusercontent.com/hellozgl/a7cdd3dbec9cac195078f6c894dfc8ab/raw/zglemby.yaml
